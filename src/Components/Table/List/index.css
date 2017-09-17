@@ -1,0 +1,27 @@
+.list-table {
+  margin-left: 60%;
+  width: 35%;
+}
+
+.list-disp-vacations { 
+  border-left: 2px solid;
+  list-style-type: none;
+  padding: 20px;
+}
+
+.list-disp-edit, .list-disp-remove {
+  margin: 10px 0;
+}
+
+.list-edit-container {
+  width: 40%;
+  text-align: center;
+}
+
+.list-edit-btns > button {
+  margin: 5px;
+}
+
+.list-disp-remove {
+  margin-left: 3%;
+}

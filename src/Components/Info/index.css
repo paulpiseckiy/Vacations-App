@@ -1,0 +1,14 @@
+.logo {
+  font-size: 60px;
+  display: inline-block;  
+  border-left: 5px solid #009700;
+  padding-left: 5px;
+  width: 30%;
+  margin: 30px 0 100px 35%;
+}
+
+.info-title {
+  width: 25%;
+  font-size: 30px;
+  margin-left: 5%;
+}

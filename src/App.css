@@ -1,0 +1,78 @@
+.App {
+  text-align: center;
+}
+
+.swal-button {
+  padding: 7px 19px;
+  font-size: 12px;
+  border-radius: 2px; 
+  background-color: white;
+  color: black;
+}
+
+.swal-button:hover {
+  background-color: lightgreen;
+}
+
+input {
+  outline: none;
+  border: 1px solid lightgrey;
+  border-radius: 2px;
+  font-size: 20px;
+  background-color: white;
+  transition: all 0.20s ease-in-out;
+}
+
+input:focus {
+  border-color: orange;
+  box-shadow: 0 0 7px 0 orange;
+}
+
+button {
+  outline: none;
+  border: none;
+  background-color: white;
+  font-size: 20px;
+}
+
+.edit-btn {
+  border: none;
+  border-bottom: 2px solid lightgrey;
+  transition: all 0.20s ease-in-out;
+}
+
+.edit-btn:hover {
+  border-color: orange;
+}
+
+.edit-btn:active {
+  background-color: orange;
+}
+
+.add-btn {
+  border: none;
+  border-bottom: 2px solid lightgrey;
+  transition: all 0.20s ease-in-out;
+}
+
+.add-btn:hover {
+  border-color: lightgreen;
+}
+
+.add-btn:active {
+  background-color: lightgreen;
+}
+
+.remove-btn {
+  border: none;
+  border-bottom: 2px solid  lightgrey;
+  transition: all 0.30s ease-in-out;
+}
+
+.remove-btn:hover {
+  border-color: lightcoral;
+}
+
+.remove-btn:active {
+  background-color: lightcoral;
+}

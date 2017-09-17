@@ -1,0 +1,20 @@
+.form-container {
+  margin: 70px 30px 30px 30px;
+  padding: 20px;
+  font-size: 20px;
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.form-input {
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+.form-btn {
+  width: 15%;
+  border: none;
+  border-bottom: 2px solid lightgrey;
+  transition: all 0.30s ease-in-out;
+}
