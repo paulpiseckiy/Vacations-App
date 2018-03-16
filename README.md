@@ -1,5 +1,3 @@
-An Adform task that includes all requested features.
-
 ## Connected libraries
 - ReactJs
 - Moment.js
